@@ -4,7 +4,9 @@
 
 # Instructions
 
-Install python: sudo apt-get install python Install git: sudo apt-get install git
+Install python: sudo apt-get install python
+
+Install git: sudo apt-get install git
 
 Go to bin directory: cd /bin
 
