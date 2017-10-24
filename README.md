@@ -26,4 +26,4 @@ Run the sysint.py file: python sysint.py
 
 "whereami" - informs user that its in a custom shell.
 
-"leave" - let´s you exit the program. You will be asked to comfirm by typing 'y' or 'n'.
+"leave" - let´s you exit the program. You will be asked to confirm by typing 'y' or 'n'.
